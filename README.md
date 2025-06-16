@@ -2,9 +2,6 @@
 Projeto de uma Tabela Periódica Interativa, desenvolvida com HTML, CSS e JavaScript.
 Organiza os elementos químicos de forma visual, dinâmica e educativa, facilitando o aprendizado sobre grupos, períodos e categorias dos elementos.
 
-🔗 Veja o projeto online:
-👉 Acessar Projeto Tabela Periódica
-
 🎯 Funcionalidades
 🧬 Visualização clara e organizada dos elementos químicos.
 
